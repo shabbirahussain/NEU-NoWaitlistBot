@@ -20,6 +20,7 @@ Just put in details of course you wanna scan with this bot. Put in a few more de
 ## FAQ:
 
 1. Why do you need NEU username and password?
+
 Ans: If you need functionality of auto enrollment script needs a NEU session to enroll you. NEU sessions timeout frequently and you have no gurantee if you will have active session when you find a seat.
 
 **It is an open source script feel free to audit it!**
